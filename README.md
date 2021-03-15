@@ -1,5 +1,6 @@
 Dart crclib
 ===========
+Fork from crclib, supports tuple ^2.0.0
 
 *This is not an official Google product.*
 
